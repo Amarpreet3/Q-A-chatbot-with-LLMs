@@ -25,14 +25,9 @@ Clone the repository:
    git clone https://github.com/Amarpreet3/q-a-chatbot-with-llms.git
    ```
 
+For more detailed go through below one : 
 
-## Usage
-# Cone this and file and rerun for your books/ novels/ pdfs
-Open `q-a-chatbot-with-llms.ipynb`.
-# For more detailed
 Open `q-a-chatbot-with-llms-comments.ipynb`.
-
-
 
 ## License
 
