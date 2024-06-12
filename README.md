@@ -19,45 +19,20 @@ This repository contains a Jupyter Notebook for building a Q&A chatbot using lar
 
 ## Installation
 
-1. Clone the repository:
+Clone the repository:
+
    ```sh
    git clone https://github.com/Amarpreet3/q-a-chatbot-with-llms.git
    ```
-2. Change into the project directory:
-   ```sh
-   cd q-a-chatbot-with-llms
-   ```
-3. Install the required dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
+
 
 ## Usage
+# Cone this and file and rerun for your books/ novels/ pdfs
+Open `q-a-chatbot-with-llms.ipynb`.
+# For more detailed
+Open `q-a-chatbot-with-llms-comments.ipynb`.
 
-1. Launch Jupyter Notebook:
-   ```sh
-   jupyter notebook
-   ```
-2. Open `q-a-chatbot-with-llms.ipynb`.
-3. Follow the instructions to interact with the chatbot.
 
-## Contributing
-
-1. Fork the repository.
-2. Create a new branch:
-   ```sh
-   git checkout -b feature/Amarpreet3
-   ```
-3. Make your changes.
-4. Commit your changes:
-   ```sh
-   git commit -m 'Add some feature'
-   ```
-5. Push to the branch:
-   ```sh
-   git push origin feature/Amarpreet3
-   ```
-6. Open a pull request.
 
 ## License
 
