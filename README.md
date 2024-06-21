@@ -1,6 +1,7 @@
 # Q&A Chatbot with Large Language Models (LLMs)
 
 This repository contains a Jupyter Notebook for building a Q&A chatbot using large language models (LLMs). The notebook leverages LangChain, FAISS, and Hugging Face models to create an efficient and flexible chatbot capable of answering questions about books or PDF files.
+![rag](https://github.com/Amarpreet3/Q-A-chatbot-with-LLMs/assets/96805692/f83ac516-7907-4087-8b94-90efc3af7de1)
 
 ## Overview
 
