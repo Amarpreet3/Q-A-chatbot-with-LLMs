@@ -28,9 +28,7 @@ Clone the repository:
 ![image2](https://github.com/Amarpreet3/Q-A-chatbot-with-LLMs/assets/96805692/a214fbee-f3c9-4326-9238-e9219f62abc0)
 
 
-For more detailed go through below one : 
 
-Open `q-a-chatbot-with-llms-comments.ipynb`.
 
 ## License
 
